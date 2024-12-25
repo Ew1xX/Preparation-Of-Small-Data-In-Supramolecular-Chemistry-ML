@@ -1,5 +1,5 @@
 # Communication: Strategies of Small Datasets Preparation for Machine Learning in Chemistry 
-Communication details, metrics, figures and code notebooks.
+This repository contains code notebooks, figures and datasets used in the research.
 
 **Notebook №1:** Collecting guests (their SMILES and binding constants with pillar[6]arene (WP6)) from scientific sources for original data (named WP6 Dataset), creating addtional data with guests related to similar to WP6 compounds (named WP6++ Dataset)
 
