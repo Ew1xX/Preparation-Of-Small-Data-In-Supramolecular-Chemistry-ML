@@ -32,3 +32,9 @@ Fig7 - metics obtained after evaluating a set of basic models on (25) WP6 datase
 * 15-17 rows - WP6++ + 25% generated data
 * 18-20 rows - WP6++ + 40% generated data
 * 21-23 rows - WP6++ + 48% generated data
+
+---
+
+* 1st row in the set of 3 rows - MSE
+* 2nd row in the set of 3 rows - MAE
+* 3rd row in the set of 3 rows - RMSE
