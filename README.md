@@ -14,6 +14,8 @@ This repository contains code notebooks, figures and datasets used in the resear
 
 **Notebooks №6.1 and №6.2:** Building same machine learning models and evaluating them on various mixtures of real and synthetic data.
 
+**Notebook №7:** Finding the best metrircs. Conslusion.
+
 ## Figures
 **Fig1** - descriptors selection. (A) for WP6 dataset and (B) for WP6++ dataset. More plot about selection see in the Notebook №1
 
@@ -44,3 +46,6 @@ This repository contains code notebooks, figures and datasets used in the resear
 * 1st row in the set of 3 rows - MSE
 * 2nd row in the set of 3 rows - MAE
 * 3rd row in the set of 3 rows - RMSE
+
+# Datasets
+All datasets are numbered according to the given Notebooks
