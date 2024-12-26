@@ -15,13 +15,19 @@ This repository contains code notebooks, figures and datasets used in the resear
 **Notebooks №6.1 and №6.2:** Building same machine learning models and evaluating them on various mixtures of real and synthetic data.
 
 ## Figures
-Fig1 - descriptors selection. (A) for WP6 dataset and (B) for WP6++ dataset. More plot about selection see in the Notebook №1
-Fig2 - heatmaps for choosing the best fingerprints.(A) for WP6 dataset and (B) for WP6++ dataset.
-Fig3 - metics obtained after evaluating a set of basic models on (A) WP6 dataset and (B) on WP6++ dataset.
-Fig4 - comparison generated data based on WP6 and real WP6 data by columns in dataset.
-Fig5 - comparison generated data based on WP6++ and real WP6++ data by columns in dataset.
-Fig6 - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
-Fig7 - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
+**Fig1** - descriptors selection. (A) for WP6 dataset and (B) for WP6++ dataset. More plot about selection see in the Notebook №1
+
+**Fig2** - heatmaps for choosing the best fingerprints.(A) for WP6 dataset and (B) for WP6++ dataset.
+
+**Fig3** - metics obtained after evaluating a set of basic models on (A) WP6 dataset and (B) on WP6++ dataset.
+
+**Fig4** - comparison generated data based on WP6 and real WP6 data by columns in dataset.
+
+**Fig5** - comparison generated data based on WP6++ and real WP6++ data by columns in dataset.
+
+**Fig6** - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
+
+**Fig7** - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
 
 ## The final metrics dataset
 * 0-2 rows - WP6
