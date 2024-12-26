@@ -1,4 +1,6 @@
 # Communication: Strategies of Small Datasets Preparation for Machine Learning in Chemistry 
+__Made by Sofia D. Khazbulat1, Alexander S. Novikov__
+
 This repository contains code notebooks, figures and datasets used in the research.
 
 ## Notebooks
