@@ -22,3 +22,13 @@ Fig4 - comparison generated data based on WP6 and real WP6 data by columns in da
 Fig5 - comparison generated data based on WP6++ and real WP6++ data by columns in dataset.
 Fig6 - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
 Fig7 - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
+
+## The final metrics dataset
+* 0-2 rows - WP6
+* 3-5 rows - WP6++
+* 6-8 rows - WP6 + 25% generated data
+* 9-11 rows - WP6 + 50% generated data
+* 12-14 rows - WP6 + 60% generated data
+* 15-17 rows - WP6++ + 25% generated data
+* 18-20 rows - WP6++ + 40% generated data
+* 21-23 rows - WP6++ + 48% generated data
