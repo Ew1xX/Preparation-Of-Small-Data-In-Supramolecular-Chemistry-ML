@@ -1,0 +1,11 @@
+,Model,Dataset,Value
+0,kNN,WP6++,3.521751107370265e-05
+1,XGBoost,WP6++,4.519848568938926e-05
+2,Random Forest,WP6 + gen.data (25%),0.0012614224954514
+3,kNN,WP6 + gen.data (25%),0.001497838771506
+4,XGBoost,WP6 + gen.data (25%),0.0018515071345531
+5,Random Forest,WP6++,0.0027682817584044
+6,XGBoost,WP6 + gen.data (48%),0.0031800419785291
+7,Lasso,WP6 + gen.data (60%),0.0032111836215183
+8,ElasticNet,WP6 + gen.data (60%),0.0032111836215183
+9,ElasticNet,WP6 + gen.data (25%),0.0039806956154879
