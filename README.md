@@ -22,31 +22,15 @@ This repository contains code notebooks, figures and datasets used in the resear
 
 **Fig2** - heatmaps for choosing the best fingerprints.(A) for WP6 dataset and (B) for WP6++ dataset.
 
-**Fig3** - metics obtained after evaluating a set of basic models on (A) WP6 dataset and (B) on WP6++ dataset.
+**Fig3** - metrics obtained after evaluating a set of basic models on (A) WP6 dataset and (B) on WP6++ dataset.
 
 **Fig4** - comparison generated data based on WP6 and real WP6 data by columns in dataset.
 
 **Fig5** - comparison generated data based on WP6++ and real WP6++ data by columns in dataset.
 
-**Fig6** - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
+**Fig6** - metrics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
 
-**Fig7** - metics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
-
-## The final metrics dataset
-* 0-2 rows - WP6
-* 3-5 rows - WP6++
-* 6-8 rows - WP6 + 25% generated data
-* 9-11 rows - WP6 + 50% generated data
-* 12-14 rows - WP6 + 60% generated data
-* 15-17 rows - WP6++ + 25% generated data
-* 18-20 rows - WP6++ + 40% generated data
-* 21-23 rows - WP6++ + 48% generated data
-
----
-
-* 1st row in the set of 3 rows - MSE
-* 2nd row in the set of 3 rows - MAE
-* 3rd row in the set of 3 rows - RMSE
+**Fig7** - metrics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
 
 # Datasets
 All datasets are numbered according to the given Notebooks
