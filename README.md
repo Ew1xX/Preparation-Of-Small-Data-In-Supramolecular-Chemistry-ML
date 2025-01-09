@@ -1,6 +1,4 @@
-# Communication: 
-
-Effective Preparation of Limited Datasets for Machine Learning in the Prediction Binding Constants in Supramolecular Chemistry
+# Communication: _Effective Preparation of Limited Datasets for Machine Learning in the Prediction Binding Constants in Supramolecular Chemistry_
 
 This repository contains code notebooks, figures and datasets used in the research.
 
