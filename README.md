@@ -17,20 +17,5 @@ This repository contains code notebooks, figures and datasets used in the resear
 
 **Notebook №7:** Finding the best metrircs. Conslusion.
 
-## Figures
-**Fig1** - descriptors selection. (A) for WP6 dataset and (B) for WP6++ dataset. More plot about selection see in the Notebook №1
-
-**Fig2** - heatmaps for choosing the best fingerprints.(A) for WP6 dataset and (B) for WP6++ dataset.
-
-**Fig3** - metrics obtained after evaluating a set of basic models on (A) WP6 dataset and (B) on WP6++ dataset.
-
-**Fig4** - comparison generated data based on WP6 and real WP6 data by columns in dataset.
-
-**Fig5** - comparison generated data based on WP6++ and real WP6++ data by columns in dataset.
-
-**Fig6** - metrics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (50) WP6 dataset + 50% of generated data dataset and (60) WP6 dataset + 60% of generated data dataset
-
-**Fig7** - metrics obtained after evaluating a set of basic models on (25) WP6 dataset + 25% of generated data dataset, (40) WP6 dataset + 40% of generated data dataset and (48) WP6 dataset + 48% of generated data dataset
-
 # Datasets
 All datasets are numbered according to the given Notebooks
